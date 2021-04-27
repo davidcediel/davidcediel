@@ -1,0 +1,24 @@
+
+
+@font-face {
+    font-family: 'pepperoni_pizzaregular';
+    src: url('pepperoni_pizza-webfont.woff2') format('woff2'),
+         url('pepperoni_pizza-webfont.woff') format('woff'),
+         url('pepperoni_pizza-webfont.svg#pepperoni_pizzaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kindergartenmedium';
+    src: url('kindergarten-webfont.woff2') format('woff2'),
+         url('kindergarten-webfont.woff') format('woff'),
+         url('kindergarten-webfont.svg#kindergartenmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
